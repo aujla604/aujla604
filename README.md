@@ -15,6 +15,6 @@ const thai = {
 }
 ```
 
-<em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+<em><b>If you need to contact me urgently please use discord:<br>ssh#3385</em>
 
 ---
