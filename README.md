@@ -1,6 +1,5 @@
 <h2> Hi, I'm Parm! <img src="https://i.pinimg.com/originals/12/08/3c/12083cb1e92970378ba48f71d7bd2dc1.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Sr Netops Egineer ~ Full-Time Vancouver, BC<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Jr Developer ~ Full-Time Vancouver, BC<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Sr Netops Egineer ~ Full-Time Vancouver, BC<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Jr Developer ~ Full-Time Vancouver, BC
 </em></p>
 
 [![Twitter: ssh](https://img.shields.io/twitter/follow/p60mg?style=social)](https://twitter.com/p60mg)
