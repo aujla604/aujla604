@@ -1,4 +1,4 @@
-<h2> Hi, I'm Parm! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, I'm Parm! <img src="https://i.pinimg.com/originals/12/08/3c/12083cb1e92970378ba48f71d7bd2dc1.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p><em>Sr Netops Egineer ~ Full-Time Vancouver, BC<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Jr Developer ~ Full-Time Vancouver, BC<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -7,7 +7,7 @@
 [![GitHub parmvirsingh](https://img.shields.io/github/followers/parmvirsingh?label=follow&style=social)](https://github.com/parmvirsingh)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const thai = {
