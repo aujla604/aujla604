@@ -2,7 +2,7 @@
 <p><em>Sr Netops Engineer ~ Full-Time Vancouver, BC</br>Jr Developer ~ Full-Time Vancouver, BC</em></p>
 
 [![Twitter: ssh](https://img.shields.io/twitter/follow/p60mg?style=social)](https://twitter.com/p60mg)
-[![GitHub parmvirsingh](https://img.shields.io/github/followers/parmvirsingh?label=follow&style=social)](https://github.com/parmvirsingh)
+[![GitHub parmvirsingh](https://img.shields.io/github/followers/vlonecarti?label=follow&style=social)](https://github.com/vlonecarti)
 
 
 ### A little more about me...  
