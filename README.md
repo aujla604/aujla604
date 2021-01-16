@@ -3,7 +3,6 @@
 
 [![Twitter: ssh](https://img.shields.io/twitter/follow/p60mg?style=social)](https://twitter.com/p60mg)
 [![GitHub parmvirsingh](https://img.shields.io/github/followers/vlonecarti?label=follow&style=social)](https://github.com/vlonecarti)
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/parm.sys)
 
 ### A little more about me...  
 
