@@ -14,6 +14,6 @@ const ssh = {
 }
 ```
 
-<em>If you need to contact me urgently please use discord:</em><br><b>ssh#3385
+<em>If you need to contact me urgently please use discord:</em><br><b>paRM#3385
 
 ---
