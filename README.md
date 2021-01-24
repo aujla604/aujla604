@@ -1,7 +1,7 @@
 <h2> Hi, I'm Parm! <img src="https://i.pinimg.com/originals/12/08/3c/12083cb1e92970378ba48f71d7bd2dc1.gif" width="50"></h2>
 <p><em>Sr Netops Engineer ~ Full-Time Vancouver, BC</br>Jr Developer ~ Full-Time Vancouver, BC</em></p>
 
-[![Twitter: ssh](https://img.shields.io/twitter/follow/p60mg?style=social)](https://twitter.com/iwantperc)
+[![Twitter: Parm](https://img.shields.io/twitter/follow/iwantperc?style=social)](https://twitter.com/iwantperc)
 [![GitHub parmvirsingh](https://img.shields.io/github/followers/vlonecarti?label=follow&style=social)](https://github.com/vlonecarti)
 
 ### A little more about me...  
