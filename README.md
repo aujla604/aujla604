@@ -1,7 +1,4 @@
 <h2> Hi, I'm Parm! </h2>
-[![Twitter: Parm](https://img.shields.io/twitter/follow/surreyjatt?style=social)](https://twitter.com/surreyjatt)
-[![GitHub parmvirsingh](https://img.shields.io/github/followers/aujla604?label=follow&style=social)](https://github.com/aujla604)
-
 ### A little more about me...  
 
 ```javascript
