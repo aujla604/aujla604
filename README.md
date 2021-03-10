@@ -1,5 +1,4 @@
-<h2> Hi, I'm Parm! <img src="https://i.pinimg.com/originals/12/08/3c/12083cb1e92970378ba48f71d7bd2dc1.gif" width="50"></h2>
-
+<h2> Hi, I'm Parm!
 [![Twitter: Parm](https://img.shields.io/twitter/follow/surreyjatt?style=social)](https://twitter.com/surreyjatt)
 [![GitHub parmvirsingh](https://img.shields.io/github/followers/aujla604?label=follow&style=social)](https://github.com/aujla604)
 
