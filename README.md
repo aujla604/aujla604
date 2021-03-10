@@ -6,7 +6,7 @@
 ### A little more about me...  
 
 ```javascript
-const ssh = {
+const paRM = {
   code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java],
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
